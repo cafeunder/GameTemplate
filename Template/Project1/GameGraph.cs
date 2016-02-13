@@ -25,7 +25,6 @@ namespace Project1 {
 		//*************************
 		//*　以下は変更しないこと *
 		//*************************
-
 		private struct GraphData{
 			public string name;
 			public string filePath;
