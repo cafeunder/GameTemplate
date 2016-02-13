@@ -18,11 +18,6 @@ namespace Project1 {
 		//| 画像データ管理配列 |
 		//======================
 		private static GraphData[] graphData = new GraphData[]{
-            new GraphData("machine","img/mychar.png"),
-			new GraphData("zakoEnemy1", "img/zakoEnemy1.png"),
-			new GraphData("zakoEnemy2", "img/zakoEnemy2.png"),
-			new GraphData("myshot1","img/myshot.png"),
-			new GraphData("eneshot1", "img/ene_sm.png"),
 		};
 
 

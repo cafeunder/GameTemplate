@@ -18,7 +18,7 @@ using DxLibDLL;
 //********************************************************
 //* 使用 : DXライブラリ.net                              *
 //* http://homepage2.nifty.com/natupaji/DxLib/index.html *
-//* DX Library Copyright (C) 2001-2014 Takumi Yamada.    *
+//* DX Library Copyright (C) 2001-2015 Takumi Yamada.    *
 //********************************************************
 
 namespace Project1 {
@@ -51,8 +51,6 @@ namespace Project1 {
 			DX.DxLib_End();	//DXライブラリの終了メソッド
 		}
 
-
-
 		/// <summary>
 		/// ゲーム本体の開始処理を行う。
 		/// </summary>
@@ -64,8 +62,6 @@ namespace Project1 {
 
 			return true;
 		}
-
-
 
 		/// <summary>
 		/// アプリケーションを強制終了する。
